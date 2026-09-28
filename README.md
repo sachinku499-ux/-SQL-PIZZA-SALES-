@@ -1,6 +1,6 @@
-# -SQL-PIZZA-SALES-
+# -SQL-PIZZA-SALES-PROJECT-
 
-## SALES PROJECT ##
+## PIZZA-SALES ##
 
 ## 1. Retrieve the total number of orders placed.
 
