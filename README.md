@@ -1,6 +1,6 @@
 # -SQL-PIZZA-SALES-
 
-## PROJECT:-1 ##
+## SALES PROJECT ##
 
 ## 1. Retrieve the total number of orders placed.
 
@@ -52,7 +52,6 @@ GROUP BY pizza_types.name
 ORDER BY quantity DESC
 LIMIT 5;
 
-## Intermediate: ##
 ## 6. Join the necessary tables to find the total quantity of each pizza category ordered.
 
 SELECT 
